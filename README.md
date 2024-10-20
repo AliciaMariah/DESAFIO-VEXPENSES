@@ -96,8 +96,7 @@ As modificações realizadas no código original visam melhorar a segurança, fu
 ### 3.2. Passos para Execução
 1. **Clone o repositório e entre na pasta do projeto:**
    ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd terraform-devops-desafio
+   git clone <https://github.com/AliciaMariah/DESAFIO-VEXPENSES.git>
    ```
 
 2. **Inicialize o Terraform:**
