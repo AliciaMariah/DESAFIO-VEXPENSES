@@ -1,6 +1,6 @@
-# Desafio de Estágio em DevOps - VExpenses
+# Desafio Terraform
 
-Este projeto faz parte do desafio para a vaga de estágio em DevOps, cujo objetivo é criar uma infraestrutura na AWS utilizando Terraform, implementando segurança, automação e melhorias no código.
+Este projeto faz parte de um desafio, cujo objetivo é criar uma infraestrutura na AWS utilizando Terraform, implementando segurança, automação e melhorias no código.
 
 ## Tecnologias Usadas
 
